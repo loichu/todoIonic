@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876163013115",
+    "project_id": "todolist-7413f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876163013115:android:9d9a52fc4269c1c0",
+        "android_client_info": {
+          "package_name": "com.ionicframework.todoList"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876163013115-r3ugnug4r6hl860g88hb3flbvsmou6n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.todoList",
+            "certificate_hash": "035A4A9033B5BEC0D7400EDCCA69236923ECE415"
+          }
+        },
+        {
+          "client_id": "876163013115-kpsgsmc1q1khv8scds5kbtam69b2ksa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsXArcD-3lxyNdRR53nsT8osT7Ql4daC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
